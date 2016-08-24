@@ -10,3 +10,4 @@ ToDo:
 -fixing bugsr
 -Writing Bootstrapper for Linux/macOS
 (for now, use "java -jar Main.jar" for start, be sure to take care of default.png)
+-cleaning up
