@@ -7,7 +7,7 @@ Download the Source and run the "Start.bat" Bootstrapper File in the src/Windows
 
 ToDo:
 -Lots of things
--fixing bugsr
+-fixing bugs
 -Writing Bootstrapper for Linux/macOS
 (for now, use "java -jar Main.jar" for start, be sure to take care of default.png)
 -cleaning up
