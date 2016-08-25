@@ -21,11 +21,11 @@ public class MouseMoveExample extends JPanel implements MouseMotionListener {
 	
 	public static final long serialVersionUID = 42L;
 	
-	JLabel xPos = new JLabel();
-	JLabel yPos = new JLabel();
-	JLabel colorRed = new JLabel();
-	JLabel colorGreen = new JLabel();
-	JLabel colorBlue = new JLabel();
+	JLabel xPos = new JLabel("X-Koordinate: 0");
+	JLabel yPos = new JLabel("Y-Koordinate: 0");
+	JLabel colorRed = new JLabel("Rot: 0");
+	JLabel colorGreen = new JLabel("Grün: 0");
+	JLabel colorBlue = new JLabel("Blau: 0");
 	
 	public int xPositionAsInt() {
 		Point i = MouseInfo.getPointerInfo().getLocation();
