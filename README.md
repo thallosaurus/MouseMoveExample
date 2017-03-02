@@ -13,4 +13,4 @@ ToDo:
 -cleaning up
 
 ## Screenshot
-<img src="https://github.com/thallosaurus/MouseMoveExample/screen.png?raw=true">Screenshot</img>
+<img src="screen.png">Screenshot</img>
