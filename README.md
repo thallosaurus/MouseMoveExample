@@ -2,7 +2,7 @@
 
 (yes, this is my cat)
 
-# Windows:
+## Windows:
 Download the Source and run the "Start.bat" Bootstrapper File in the src/Windows folder.
 
 ToDo:
