@@ -13,4 +13,4 @@ ToDo:
 -cleaning up
 
 ## Screenshot
-<img src="screen.png">Screenshot</img>
+<img src="screen.png"></img>
